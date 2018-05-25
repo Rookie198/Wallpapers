@@ -1,0 +1,158 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "Sports"
+            },
+            {
+                "name": "Animals"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Motivational"
+            },
+            {
+                "name": "Space"
+            },
+            {
+                "name": "Cars"
+            },
+            {
+                "name": "Landscape"
+            },
+            {
+                "name": "Movies"
+            },
+            {
+                "name": "Abstract"
+            },
+            {
+                "name": "Trill"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Art"
+            },
+            {
+                "name": "People"
+            },
+            {
+                "name": "Gaming"
+            },
+            {
+                "name": "Text"
+            },
+            {
+                "name": "Misc"
+            },
+            {
+                "name": "Night"
+            },
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Rookie",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Wallpapers/120842_adapted_720x1280.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Wallpapers/120842_adapted_300x400.jpg",
+				"name": "Winter Trees",
+                "category": "Landscape"
+			},
+            {
+				"author": "Rookie",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Malaysia_adapted_1080x1920.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Malaysia_adapted_300x400.jpg",
+				"name": "Malaysia",
+                "category": "City, Night"
+			},
+            {
+				"author": "Rahul",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Mountain_adapted_720x1280.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Mountain_adapted_300x400.jpg",
+				"name": "Waterfalls",
+                "category": "Landscape"
+			},
+            {
+				"author": "Rahul",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Wallpapers/120929_adapted_720x1280.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Wallpapers/120929_adapted_300x400.jpg",
+				"name": "Raindrops",
+                "category": "City, Night"
+			},
+            {
+				"author": "Rookie",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Black-7e14f554-7df4-4314-a26b-26150ac80b96.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Black-7e14f554-7df4-4314-a26b-26150ac80b96.jpg",
+				"name": "Starry Night",
+                "category": "Night, Landscape"
+			},
+            {
+				"author": "Rookie",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Bridge-c6da3007-968f-42e3-a70e-26db9b9817a3.jpg.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Bridge-c6da3007-968f-42e3-a70e-26db9b9817a3.jpg",
+				"name": "Bridge",
+                "category": "Landscape"
+			},
+            {
+				"author": "Rookie",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Elegant.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Elegant.jpg",
+				"name": "BMW",
+                "category": "Cars, Art"
+			},
+            {
+				"author": "Rookie",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Ferrari-beac8945-9dc3-461f-90f5-e256cf27bd25.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Ferrari-beac8945-9dc3-461f-90f5-e256cf27bd25.jpg",
+				"name": "Ferrari",
+                "category": "Cars"
+			},
+            {
+				"author": "Rookie",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Nature-3c0b02b6-7753-4e9d-a76b-15829c47e1a2.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Wallpapers/Nature-3c0b02b6-7753-4e9d-a76b-15829c47e1a2.jpg",
+				"name": "Mountain",
+                "category": "Landscape"
+			},
+            {
+				"author": "Alan P",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Abstract/01.png",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Abstract/01.png",
+				"name": "Abstract 1",
+                "category": "Abstract"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Games/33.jpg",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Games/33.jpg",
+				"name": "Soldier",
+                "category": "Gaming"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Space/G%20(1).png",
+				"thumbUrl": "https://github.com/Rookie198/Wallpapers/blob/master/Space/G%20(1).png",
+				"name": "Sun",
+                "category": "Space"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Animal/fire_tiger-6e6ab82b-44b3-49fa-ad0d-1c4f475cb5c0.jpg",
+				"thumbUrl": "https://raw.github.com/Rookie198/Wallpapers/blob/master/Animal/fire_tiger-6e6ab82b-44b3-49fa-ad0d-1c4f475cb5c0.jpg",
+				"name": "Fire Tiger",
+                "category": "Animal"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Art/Imagination-5235389e-2a72-4d7f-9bb5-0f0e011bf0e5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Art/Imagination-5235389e-2a72-4d7f-9bb5-0f0e011bf0e5.jpg",
+				"name": "Imagination",
+                "category": "Art"
+			}
+		]
+}
