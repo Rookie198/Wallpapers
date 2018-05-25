@@ -1,0 +1,73 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Rookie",
+				"url": "https://www.dropbox.com/s/k9h8lj5zw1y2brb/120842_adapted_720x1280.jpg,
+				"thumbUrl": "https://www.dropbox.com/s/k9h8lj5zw1y2brb/120842_adapted_320x400.jpg",
+				"name": "Winter Trees",
+                "category": "Nature, Mountain"
+			},
+            {
+				"author": "Rookie",
+				"url": "https://www.dropbox.com/s/e53d7fkek02t0dp/120779_adapted_1080x1920.jpg",
+				"thumbUrl": "https://www.dropbox.com/s/e53d7fkek02t0dp/120779_adapted_300x400.jpg",
+				"name": "Malaysia",
+                "category": "Road, City"
+			},
+            {
+				"author": "Rahul",
+				"url": "https://www.dropbox.com/s/d5pcuxk05sptq4m/120839_adapted_720x1280.jpg",
+				"thumbUrl": "https://www.dropbox.com/s/d5pcuxk05sptq4m/120839_adapted_320x400.jpg?",
+				"name": "Waterfalls",
+                "category": "Nature"
+			}
+        
+		]
+}
