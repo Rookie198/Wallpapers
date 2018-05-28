@@ -1,0 +1,42 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "City"
+            },
+            {
+                "name": "Space"
+            },
+            {
+                "name": "Landscape"
+            },
+            {
+                "name": "Night"
+            },
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Rookie",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/120842_adapted_720x1280.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Thumbnails2/120842_adapted_720x1280.png",
+				"name": "Winter Trees",
+                "category": "Landscape"
+			},
+            {
+				"author": "Rookie",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Wallpapers/Malaysia_adapted_1080x1920.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Thumbnails2/Malaysia_adapted_1080x1920.png",
+				"name": "Malaysia",
+                "category": "City, Night"
+			},
+            {
+				"author": "Rahul M",
+				"url": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Space/G%20(1).png",
+				"thumbUrl": "https://raw.githubusercontent.com/Rookie198/Wallpapers/master/Thumbnails2/G%20(1).png",
+				"name": "Sun",
+                "category": "Space"
+			}
+		]
+}
