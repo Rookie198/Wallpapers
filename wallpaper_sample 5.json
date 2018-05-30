@@ -1,0 +1,42 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "City"
+            },
+            {
+                "name": "Space"
+            },
+            {
+                "name": "Landscape"
+            },
+            {
+                "name": "Night"
+            },
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Rookie",
+				"url": "https://imgur.com/BfFiwvq",
+				"thumbUrl": "https://imgur.com/BfFiwvq",
+				"name": "Winter Trees",
+                "category": "Landscape"
+			},
+            {
+				"author": "Rookie",
+				"url": "https://imgur.com/Y9LoEqU",
+				"thumbUrl": "https://imgur.com/Y9LoEqU",
+				"name": "Malaysia",
+                "category": "City, Night"
+			},
+{
+				"author": "Rahul M",
+				"url": "https://imgur.com/hRHuGf8",
+				"thumbUrl": "https://imgur.com/hRHuGf8",
+				"name": "Sun",
+                "category": "Space"
+			}
+		]
+}
